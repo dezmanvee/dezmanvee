@@ -10,7 +10,7 @@ I'm a software developer passionate about creating elegant solutions to complex 
 - 🌐 I'm also experienced in **HTML5**, **CSS3**, and **JavaScript**.
 - 📚 I love to learn and explore new technologies, which keeps me on the cutting edge.
 - 🎨 In addition to coding, I enjoy math and physics.
-- ✍️ When I'm not coding, you can find me javaScript, math or physics.
+- ✍️ When I'm not coding, you can find me tutoring javaScript, math or physics.
 
 ## Tech Stack
 
