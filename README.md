@@ -10,7 +10,7 @@ I'm a software developer passionate about creating elegant solutions to complex 
 - 🌐 I'm also experienced in **HTML5**, **CSS3**, and **JavaScript**.
 - 📚 I love to learn and explore new technologies, which keeps me on the cutting edge.
 - 🎨 In addition to coding, I enjoy math and physics.
-- ✍️ When I'm not coding, you can find me blogging about tech and development on [Dev.to](https://dev.to/dezmanvee).
+- ✍️ When I'm not coding, you can find me javaScript, math or physics.
 
 ## Tech Stack
 
@@ -23,7 +23,6 @@ Here are some of the technologies and tools I work with:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
 ## Find Me Online
@@ -31,7 +30,7 @@ Here are some of the technologies and tools I work with:
 - [Portfolio Website](https://www.dezmanvee.com)
 - [LinkedIn](https://www.linkedin.com/in/dezmanvee)
 - [Twitter](https://twitter.com/dezmanvee)
-- [Dev.to](https://dev.to/dezmanvee)
+- 
 
 ## GitHub Stats
 
