@@ -1,7 +1,5 @@
 # Hi there, I'm Bamidele 👋
 
-![Profile views](https://gpvc.arturio.dev/dezmanvee)
-
 ## About Me
 
 I'm a software developer passionate about creating elegant solutions to complex problems. My journey in the world of code began with a fascination for technology, and I've been coding ever since. Here's a bit more about me:
