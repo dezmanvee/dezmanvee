@@ -28,7 +28,6 @@ Here are some of the technologies and tools I work with:
 - [Portfolio Website](https://www.dezmanvee.com)
 - [LinkedIn](https://www.linkedin.com/in/dezmanvee)
 - [Twitter](https://twitter.com/dezmanvee)
-- 
 
 ## GitHub Stats
 
