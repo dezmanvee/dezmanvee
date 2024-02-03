@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software developer passionate about creating elegant solutions to complex problems. My journey in the world of code began with a fascination for technology, and I've been coding ever since. Here's a bit more about me:
+I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employ HTTP for seamless communication between them. Here's a bit more about me:
 
 - 💻 I specialize in front-end web development with a focus on **React**.
 - 🌐 I'm also experienced in **HTML5**, **CSS3**, and **JavaScript**.
