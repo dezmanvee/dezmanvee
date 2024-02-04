@@ -20,6 +20,7 @@ Here are some of the technologies and tools I work with:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-8B5CF6?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-Material_UI-1976D2?logo=material-ui&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-0074CC?logo=express&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
