@@ -17,9 +17,10 @@ Here are some of the technologies and tools I work with:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+[![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&style=for-the-badge)](https://redux-toolkit.js.org/)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-8B5CF6?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-1976D2?logo=material-ui&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
