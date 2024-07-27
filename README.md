@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employ HTTP for seamless communication between them. Here's a bit more about me:
+I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employ HTTP for seamless communication between them. 
 
 ## Tech Stack
 
