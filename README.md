@@ -35,9 +35,7 @@ Here are some of the technologies and tools I work with:
 [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=materialui,shadcn)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=shadcn)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=redux,reactquery)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=reactquery)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 
