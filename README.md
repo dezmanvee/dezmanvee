@@ -4,12 +4,6 @@
 
 I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employ HTTP for seamless communication between them. Here's a bit more about me:
 
-- 💻 I specialize in front-end web development with a focus on **React**.
-- 🌐 I'm also experienced in **HTML5**, **CSS3**, and **JavaScript**.
-- 📚 I love to learn and explore new technologies, which keeps me on the cutting edge.
-- 🎨 In addition to coding, I enjoy math and physics, and gaming..
-- ✍️ When I'm not coding, you can find me tutoring javaScript, math or physics.
-
 ## Tech Stack
 
 Here are some of the technologies and tools I work with:
