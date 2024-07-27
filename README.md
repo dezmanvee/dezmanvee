@@ -30,6 +30,16 @@ Here are some of the technologies and tools I work with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=shadcn)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=reactquery)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
 
 ## Find Me Online
 
