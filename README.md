@@ -1,4 +1,4 @@
-# Hi there, I'm Bamidele 👋
+# Hi there👋, I am currently working on a fullstack blog application
 
 ## About Me
 
