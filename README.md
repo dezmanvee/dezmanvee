@@ -1,4 +1,4 @@
-# Hi there👋, I am currently working on a Developer Blog Platform
+# Hi there👋, I am currently working on a Developer Blog Platform and expanding my expertise to include Microsoft SQL Server and database management.
 
 ## About Me
 
