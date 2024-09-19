@@ -1,8 +1,8 @@
-# Hi there👋, I am currently working on a Developer Blog Platform and expanding my expertise to include Microsoft SQL Server and database management.
+# Hi there👋, I am currently working on a fullstack application, Developer Blog Platform.
 
 ## About Me
 
-I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employ HTTP for seamless communication between them. 
+I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employ HTTP for seamless communication between them. Additionally, I'm expanding my expertise by learning MS SQL Server for database management and AWS for cloud services.
 
 ## Tech Stack
 
@@ -14,7 +14,7 @@ Here are some of the technologies and tools I work with:
 [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=materialui,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlserver,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sql,git)](https://skillicons.dev)
 
 
 ## Find Me Online
