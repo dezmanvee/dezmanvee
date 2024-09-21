@@ -15,7 +15,6 @@ Here are some of the technologies and tools I work with:
 [![My Skills](https://skillicons.dev/icons?i=materialui,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-//[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
