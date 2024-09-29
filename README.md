@@ -1,4 +1,4 @@
-# Hi👋, I am currently working on a fullstack application, Developer Blog Platform.
+# Hi👋, I am currently working on a fullstack application for developers, Developer News Aggregator Platform.
 
 ## About Me
 
