@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employ HTTP for seamless communication between them. Additionally, I'm expanding my expertise by learning MS SQL Server for database management and AWS for cloud services.
+I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employing HTTP for seamless communication between them. Additionally, I'm expanding my expertise by learning MS SQL Server for database management and AWS for cloud services.
 
 ## Tech Stack
 
@@ -16,7 +16,7 @@ Here are some of the technologies and tools I work with:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=aws,reactnative)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Find Me Online
