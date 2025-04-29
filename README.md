@@ -1,4 +1,4 @@
-# Hi👋, I am currently working on an application that simplifies result management for schools.
+# Hi👋, I am building PredictAI -  A Football Match Prediction Platform.
 
 ## About Me
 
