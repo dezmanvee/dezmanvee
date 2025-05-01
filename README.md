@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js and Express.js on the server side, and employing HTTP for seamless communication between them. Additionally, I'm expanding my expertise by learning MS SQL Server for database management and AWS for cloud services.
+I'm a software developer. Currently, I focus on implementing interactive and user-friendly interfaces using React.js and Next.js on the client side, Node.js(Express) & C#(.NET) on the server side, and employing HTTP for seamless communication between them. Additionally, I'm expanding my expertise by learning MS SQL Server for database management and AWS for cloud services.
 
 ## Tech Stack
 
