@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 ## Find Me Online
 
-- [Portfolio Website](https://dezmanvee.netlify.app/)
+- [Portfolio Website](https://bamidele.dev/)
 - [LinkedIn](https://www.linkedin.com/in/dezmanvee)
 - [Twitter](https://twitter.com/dezmanvee)
 
