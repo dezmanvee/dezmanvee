@@ -1,4 +1,4 @@
-# Hi👋, I am building PredictAI -  A Football Match Prediction Platform.
+# Hi👋, 
 
 ## About Me
 
