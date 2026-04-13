@@ -2,7 +2,9 @@
 
 ## About Me
 
-I'm a Full-stack software developer with over four years of experience building systems that go beyond just ``working'';  systems that improve how people and teams actually operate. My work sits at the intersection of data, workflows, and real business needs, from enterprise pension systems to client-facing platforms.
+I'm a Full-stack software developer with over four years of experience building systems that go beyond just ``working'';  systems that improve how people and teams actually operate. My work sits at the intersection of data, workflows, and real business needs, from enterprise pension systems to client-facing platforms
+
+I enjoy breaking down complex problems, understanding where things slow down, and building systems that fix those gaps in a practical way.
 
 ## Tech Stack
 
