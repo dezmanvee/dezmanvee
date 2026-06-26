@@ -25,7 +25,7 @@ I support business-critical systems by investigating application and data issues
 - Portfolio: https://bamidele.dev
 - LinkedIn: https://ng.linkedin.com/in/dezmanvee
 - Email: bamyonline@gmail.com
-```
+
 
 ## Pin these four repositories in this order
 1. `sql-server-dba-toolkit`
