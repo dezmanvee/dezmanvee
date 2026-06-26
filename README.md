@@ -27,15 +27,6 @@ I support business-critical systems by investigating application and data issues
 - Email: bamyonline@gmail.com
 
 
-## Pin these four repositories in this order
-1. `sql-server-dba-toolkit`
-2. `sql-server-backup-restore-lab`
-3. `sql-server-performance-lab`
-4. `pension-reporting-sql-case-studies`
-
-Keep one strong full-stack repository pinned only after these four, not before them.
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
