@@ -17,7 +17,7 @@ I support business-critical systems by investigating application and data issues
 - [SQL Server DBA Toolkit](https://github.com/dezmanvee/sql-server-dba-toolkit)
 - [SQL Server Backup & Restore Lab](https://github.com/dezmanvee/sql-server-backup-restore-lab)
 - [SQL Server Performance Lab](https://github.com/dezmanvee/sql-server-performance-lab)
-/*- [Pension Reporting SQL Case Studies](https://github.com/dezmanvee/pension-reporting-sql-case-studies)*/
+
 
 > All public SQL examples are lab-based or anonymised. No production data, customer data, credentials, server names, or proprietary configurations are published.
 
