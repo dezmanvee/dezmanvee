@@ -11,11 +11,11 @@ I support business-critical systems by investigating application and data issues
 - T-SQL, stored procedures, reporting, and data validation
 - Performance troubleshooting: slow queries, blocking, deadlocks, capacity, and indexing
 - SSRS, PBIRS, Power BI, and operational reporting
-- Incident triage, UAT, vendor escalation, and support documentation
+- Incident triage, vendor escalation, and support documentation
 
 ## Portfolio projects
-- [SQL Server DBA Toolkit](https://github.com/dezmanvee/sql-server-dba-toolkit)
 - [SQL Server Backup & Restore Lab](https://github.com/dezmanvee/sql-server-backup-restore-lab)
+- [SQL Server DBA Toolkit](https://github.com/dezmanvee/sql-server-dba-toolkit)
 - [SQL Server Performance Lab](https://github.com/dezmanvee/sql-server-performance-lab)
 
 
